@@ -74,12 +74,6 @@
 				<configuration>
 					<outputDirectory>${project.build.directory}/</outputDirectory>
 					<formats>XML</formats>
-					<excludes>
-						<exclude>maquina1995/generic/microservice/dto/*.class</exclude>
-						<exclude>maquina1995/generic/microservice/entity/*.class</exclude>
-						<exclude>maquina1995/generic/microservice/repository/*.class</exclude>
-						<exclude>maquina1995/generic/microservice/mapper/*.class</exclude>
-					</excludes>
 				</configuration>
 				<executions>
 					<execution>
