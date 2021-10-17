@@ -1,5 +1,8 @@
 # quarkus Project
 
+[![Codacy Badge](https://app.codacy.com/project/badge/Coverage/30ed6217437c47b7a0ef230ca2cdd03a)](https://www.codacy.com/gh/MaQuiNa1995/QuarkusCrudWebservice/dashboard?utm_source=github.com&utm_medium=referral&utm_content=MaQuiNa1995/QuarkusCrudWebservice&utm_campaign=Badge_Coverage)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/30ed6217437c47b7a0ef230ca2cdd03a)](https://www.codacy.com/gh/MaQuiNa1995/QuarkusCrudWebservice/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=MaQuiNa1995/QuarkusCrudWebservice&amp;utm_campaign=Badge_Grade)
+
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
 If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
